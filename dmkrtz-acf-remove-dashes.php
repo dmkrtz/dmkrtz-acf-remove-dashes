@@ -20,7 +20,7 @@ function child_plugin_activate(){
 
 /* ACF get rid of all dashes of sub-categories */
 function acf_get_rid_of_dashes( $field ) {
-	if($field['choices']) {
+	if($field['choices'] && $field['taxonomy']) {
 		$before = $field['choices'];
 		
 		$after = array();
