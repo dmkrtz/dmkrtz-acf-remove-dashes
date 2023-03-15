@@ -6,7 +6,7 @@ GitHub Plugin URI: dmkrtz/dmkrtz-acf-remove-dashes
 Author: dmkrtz
 Author URI: https://github.com/dmkrtz
 Description: Removes Dashes from ACF choices fields.
-Version: 1.0.1
+Version: 1.0.2
 */
 register_activation_hook( __FILE__, 'child_plugin_activate' );
 function child_plugin_activate(){
