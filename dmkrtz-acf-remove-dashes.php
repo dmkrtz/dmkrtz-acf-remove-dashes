@@ -3,6 +3,8 @@
 Plugin Name: dmkrtz ACF Remove Dashes
 Plugin URI: https://github.com/dmkrtz/dmkrtz-acf-remove-dashes
 GitHub Plugin URI: dmkrtz/dmkrtz-acf-remove-dashes
+Author: dmkrtz
+Author URI: https://github.com/dmkrtz
 Description: Removes Dashes from ACF fields in the frontend.
 Version: 1.0.0
 */
